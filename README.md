@@ -20,7 +20,7 @@ In this project, you'll find an interactive dice game where two players roll a d
 - Interactive gameplay for two players.
 
 ## 🌐 Live Preview
-You can play the game live by clicking (https://harmonious-bunny-1aa064.netlify.app/).
+You can play the game live by clicking (https://lively-shortbread-a58633.netlify.app/).
 
 
 ## 🤝 Contributing
